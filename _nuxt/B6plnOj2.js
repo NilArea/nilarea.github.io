@@ -1,1 +1,0 @@
-import{d as t,c as a,w as o,_ as s,o as _,a as r}from"./CrHDV8eQ.js";const i=t({__name:"index",setup(c){return(l,e)=>{const n=s;return _(),a(n,null,{default:o(()=>[...e[0]||(e[0]=[r("h1",null,"ツ箫声断丶何处莫凭栏",-1)])]),_:1})}}});export{i as default};
